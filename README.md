@@ -1,7 +1,7 @@
 # Mongo-Scraper
 
 ### DESCRIPTION
-Mongo Scraper is a web app that lets users view and leave comments on the latest news. Programs such as mongoose and cheerio are used to scrape information from a news website and pastes it on the web app. This app accomplishes the following:
+Mongo Scraper is a web app that lets users view and leave comments on the latest news. Programs such as mongoose are used to scrape information from a news website and pastes it on the web app. This app accomplishes the following:
 
   1. Whenever a user visits your site, the app should scrape stories from a news outlet of your choice and display them for the user. Each scraped article should be saved to your application database. The app should scrape and display the following information for each article:
 
