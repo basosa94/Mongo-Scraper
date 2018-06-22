@@ -13,4 +13,4 @@ Mongo Scraper is a web app that lets users view and leave comments on the latest
 
   2. Users should also be able to leave comments on the articles displayed and revisit them later. The comments should be saved to the database as well and associated with their articles. Users should also be able to delete comments left on articles. All stored comments should be visible to every user.
 
-  The link to the deployed app can be found [here](https://git.heroku.com/fathomless-woodland-87724.git)
+  The link to the deployed app can be found [here](https://fathomless-woodland-87724.herokuapp.com/)
